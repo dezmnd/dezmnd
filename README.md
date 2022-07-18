@@ -23,3 +23,15 @@
 ### 🤝🏻 Connect with Me
 * 📧 E-mail me at okpord8@gmail.com
 * 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/desmond-okpor-3a8b92a2/">LinkedIn</a>
+
+
+![Profile views](https://gpvc.arturio.dev/dezmnd)
+
+
+</br>
+
+![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=dezmnd&count_private=true&theme=cobalt&show_icons=true&include_all=true&line_height=20)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezmnd&" alt="Desmond" /></p>
+
+With 💙  From [Desmond Okpor](https://github.com/dezmnd)
