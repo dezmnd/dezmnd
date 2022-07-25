@@ -12,11 +12,11 @@
 ***
 
 ### 🛠 Tech Stack
-*  💻   React.Js, Node.Js, C#, C/C++, Webflow, Wordpress
+*  💻   React.Js, C#, C/C++, Webflow, Wordpress
 
-*  🏭   PHP Java 
+*  🏭   Node.Js, PHP, Java 
 
-* 🛢   SQL MongoDB
+* 🛢   SQL, MongoDB
 
 ***
 
